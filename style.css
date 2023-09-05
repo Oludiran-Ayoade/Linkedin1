@@ -1180,7 +1180,20 @@ nav .wrapper .right .me i:first-child{
     .profile-sidebar {
         display: none;
     }
-}
+    .right21 {
+        top: 900px;
+        position: fixed;
+        border-radius: 10px;
+        display: flex;
+        background-color: var(--white-color);
+        padding-top: 10px;
+        padding-left: 20px;
+        font-size: 15px;
+        width: 600px;
+    }
+    .right21 i,h6 {
+        padding-left: 30px;
+    }}
 
 /* @media (max-width:991px) {
     html {
