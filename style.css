@@ -190,6 +190,9 @@ nav .wrapper .right .me i:first-child{
 .wrapper a:hover{
     text-decoration: underline;
 }
+.right21 {
+    display: none;
+}
 /* .navbar {
     display: flex;
     align-items: center;
